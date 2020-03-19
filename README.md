@@ -16,3 +16,4 @@ int main () {
         for (int j=0; j<3; j++){
             cout << a [i] [j] << " ";
 SALAH WOY KODINGANNYA
+OOOH IYAA MAAP
