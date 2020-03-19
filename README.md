@@ -10,3 +10,4 @@ int main () {
         cin >> a [i] [j];
     }
     cout <<endl;
+}
