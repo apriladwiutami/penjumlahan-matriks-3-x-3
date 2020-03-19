@@ -48,3 +48,6 @@ int main(){
         else 
         cout <<"  ";
         for(n=0; n<3; n++){
+           cout<<" "<<C[m][n];
+        }
+    cout<<endl;
