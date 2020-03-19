@@ -36,3 +36,7 @@ int main(){
  }
         if(m==1){
             cout<<" +";
+        }
+        else
+        cout<<"  ";
+        
