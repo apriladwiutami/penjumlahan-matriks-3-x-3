@@ -17,3 +17,11 @@ int main () {
             cout << a [i] [j] << " ";
 SALAH WOY KODINGANNYA
 OOOH IYAA MAAP
+oke. 
+    otw
+        hapus
+                3
+                    2
+                        1
+                            bhayy!!!!!!!
+                
