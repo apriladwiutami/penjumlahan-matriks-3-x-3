@@ -45,3 +45,6 @@ int main(){
         if(m==1){
             cout<<" = ";
         }
+        else 
+        cout <<"  ";
+        for(n=0; n<3; n++){
