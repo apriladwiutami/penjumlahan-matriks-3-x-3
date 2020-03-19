@@ -43,12 +43,12 @@ int main(){
             cout<<" "<<B[m][n];
         } 
         if(m==1){
-            cout<<" = ";
+            cout<<" =";
         }
         else 
         cout <<"\t";
         for(n=0; n<3; n++){
-          cout<<" "<<C[m][n];
+           cout<<" "<<C[m][n];
         }
     cout<<endl;
   }
