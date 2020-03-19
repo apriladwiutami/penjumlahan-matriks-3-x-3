@@ -10,3 +10,6 @@ int main(){
     	cout<<"Berikan Matriks Pertama (3x3): \n\n";
 
     for(m=0; m<3; m++) {
+	for(n=0; n<3; n++){
+            cin>>A[m][n];
+        }
