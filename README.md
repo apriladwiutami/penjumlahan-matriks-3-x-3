@@ -30,3 +30,6 @@ int main(){
             C[m][n]=A[m][n]+B[m][n];
         }
   }
+ for(m=0; m<3; m++){
+        for(n=0; n<3; n++){
+            cout<<" "<<A[m][n];
