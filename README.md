@@ -20,3 +20,6 @@ int main(){
   for(m=0; m<3; m++){
         for(n=0; n<3; n++){
             cin>>B[m][n];
+ }
+    }
+    cout<<endl;
