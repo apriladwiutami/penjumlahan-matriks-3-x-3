@@ -42,3 +42,6 @@ int main(){
         for(n=0; n<3; n++){
             cout<<" "<<B[m][n];
         } 
+        if(m==1){
+            cout<<" =";
+        }
