@@ -4,4 +4,5 @@ tugas 2 pemrograman terstruktur
 #include <iostream>
 using namespace std;
 int main () { 
-  
+    int a [3] [3];
+ 
