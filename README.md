@@ -9,3 +9,4 @@ int main () {
         for (int j=0; j<3; j++){
         cin >> a [i] [j];
     }
+    cout <<endl;
