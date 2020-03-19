@@ -51,3 +51,5 @@ int main(){
            cout<<" "<<C[m][n];
         }
     cout<<endl;
+  }
+    return 0;
