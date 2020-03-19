@@ -43,5 +43,5 @@ int main(){
             cout<<" "<<B[m][n];
         } 
         if(m==1){
-            cout<<" =";
+            cout<<" = ";
         }
