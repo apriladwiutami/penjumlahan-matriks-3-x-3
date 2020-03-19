@@ -33,3 +33,6 @@ int main(){
  for(m=0; m<3; m++){
         for(n=0; n<3; n++){
             cout<<" "<<A[m][n];
+ }
+        if(m==1){
+            cout<<" +";
