@@ -38,7 +38,7 @@ int main(){
             cout<<" +";
         }
         else
-        cout<<"  ";
+        cout<<"\t";
         for(n=0; n<3; n++){
             cout<<" "<<B[m][n];
         } 
@@ -46,10 +46,11 @@ int main(){
             cout<<" = ";
         }
         else 
-        cout <<"  ";
+        cout <<"\t";
         for(n=0; n<3; n++){
            cout<<" "<<C[m][n];
         }
     cout<<endl;
   }
     return 0;
+}
