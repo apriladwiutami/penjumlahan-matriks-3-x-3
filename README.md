@@ -23,3 +23,7 @@ int main(){
  }
     }
     cout<<endl;
+    cout<<"Hasil: \n\n";
+    
+   for(m=0; m<3; m++){
+    for(n=0; n<3; n++){
